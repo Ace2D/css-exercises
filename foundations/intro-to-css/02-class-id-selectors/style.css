@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+#una{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#une{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p{
+    background-color: #ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.abs{
+    font-size: 24px;
+}
